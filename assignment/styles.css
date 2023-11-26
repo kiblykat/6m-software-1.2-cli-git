@@ -1,0 +1,36 @@
+*{
+
+  font-family: "Nanum Pen Script", 'Segoe UI';
+
+}
+
+body{
+  margin:0.5rem;
+  background-color: blanchedalmond;
+}
+
+.intro{
+  margin:0.5rem;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.body{
+  margin:0.5rem;
+  background-color: bisque;
+  padding:1rem;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+}
+
+a{
+  text-decoration: none;
+}
+
+li{
+  text-decoration: none;
+}
